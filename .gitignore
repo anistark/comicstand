@@ -61,6 +61,9 @@ build/
 # Files for the Dalvik VM
 *.dex
 
+# Java class files
+*.class
+
 # Generated files
 bin/
 gen/
@@ -80,4 +83,3 @@ local.properties
 #Ignorando SVN!!
 **/.svn/
 .svn/
-
